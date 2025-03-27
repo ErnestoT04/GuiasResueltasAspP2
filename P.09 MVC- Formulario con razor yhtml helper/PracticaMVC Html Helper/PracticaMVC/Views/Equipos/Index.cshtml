@@ -1,0 +1,67 @@
+﻿@{
+    ViewData["Title"] = "Mantenimiento de Equipos";
+}
+
+<h1>Mantenimiento de Equipos</h1>
+<br />
+
+<form asp-action="CrearEquipos">
+    @* Inicio del formulario *@
+
+    <div class="form-group row mb-4">
+        <div class="col-sm-2">
+            <label>Nombre</label>
+        </div>
+        <div class="col-sm-4">
+            @Html.TextBox("nombre", "", new { @class = "form-control", required = "required" })
+        </div>
+        <div class="col-sm-2">
+            @Html.Label("descripcion", "Descripción")
+        </div>
+        <div class="col-sm-4">
+            @Html.TextArea("descripcion", "", new { @class = "form-control", rows = "3" })
+        </div>
+    </div>
+
+    <div class="form-group row mb-4">
+        <div class="col-sm-2">
+            <label>Marca</label>
+        </div>
+        <div class="col-sm-4">
+            @Html.DropDownList("marca_id", (SelectList)ViewData["ListadoDeMarcas"],
+                     "Seleccione una marca", new { @class = "form-control", required = "required" })
+        </div>
+    </div>
+
+    <!-- Puedes agregar más campos aquí según necesites -->
+
+    <div class="form-group row mb-4">
+        <div class="col-sm-2"></div>
+        <div class="col-sm-4">
+            <input type="submit" class="btn btn-primary" value="Guardar" />
+        </div>
+    </div>
+</form>
+
+<h2>Listado de Equipos</h2>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Descripción</th>
+            <th>Marca</th>
+            <!-- Otros campos que quieras mostrar -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var equipo in ViewData["ListadoEquipo"] as IEnumerable<dynamic>)
+        {
+            <tr>
+                <td>@equipo.nombre</td>
+                <td>@equipo.descripcion</td>
+                <td>@equipo.marca_nombre</td>
+                <!-- Otros campos -->
+            </tr>
+        }
+    </tbody>
+</table>

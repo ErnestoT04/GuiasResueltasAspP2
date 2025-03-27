@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.05 MVC\\PracticaMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87AD5024-9B53-4AFC-931D-ABC4B238B4C6}|PracticaMVC\\PracticaMVC.csproj|c:\\users\\cryde\\desktop\\guiasresultasasp\\p.05 mvc\\practicamvc\\practicamvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AD5024-9B53-4AFC-931D-ABC4B238B4C6}|PracticaMVC\\PracticaMVC.csproj|solutionrelative:practicamvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AD5024-9B53-4AFC-931D-ABC4B238B4C6}|PracticaMVC\\PracticaMVC.csproj|c:\\users\\cryde\\desktop\\guiasresultasasp\\p.05 mvc\\practicamvc\\practicamvc\\models\\marcas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AD5024-9B53-4AFC-931D-ABC4B238B4C6}|PracticaMVC\\PracticaMVC.csproj|solutionrelative:practicamvc\\models\\marcas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AD5024-9B53-4AFC-931D-ABC4B238B4C6}|PracticaMVC\\PracticaMVC.csproj|c:\\users\\cryde\\desktop\\guiasresultasasp\\p.05 mvc\\practicamvc\\practicamvc\\models\\equiposdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AD5024-9B53-4AFC-931D-ABC4B238B4C6}|PracticaMVC\\PracticaMVC.csproj|solutionrelative:practicamvc\\models\\equiposdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AD5024-9B53-4AFC-931D-ABC4B238B4C6}|PracticaMVC\\PracticaMVC.csproj|c:\\users\\cryde\\desktop\\guiasresultasasp\\p.05 mvc\\practicamvc\\practicamvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AD5024-9B53-4AFC-931D-ABC4B238B4C6}|PracticaMVC\\PracticaMVC.csproj|solutionrelative:practicamvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AD5024-9B53-4AFC-931D-ABC4B238B4C6}|PracticaMVC\\PracticaMVC.csproj|c:\\users\\cryde\\desktop\\guiasresultasasp\\p.05 mvc\\practicamvc\\practicamvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87AD5024-9B53-4AFC-931D-ABC4B238B4C6}|PracticaMVC\\PracticaMVC.csproj|solutionrelative:practicamvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AD5024-9B53-4AFC-931D-ABC4B238B4C6}|PracticaMVC\\PracticaMVC.csproj|c:\\users\\cryde\\desktop\\guiasresultasasp\\p.05 mvc\\practicamvc\\practicamvc\\controllers\\marcascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AD5024-9B53-4AFC-931D-ABC4B238B4C6}|PracticaMVC\\PracticaMVC.csproj|solutionrelative:practicamvc\\controllers\\marcascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.05 MVC\\PracticaMVC\\PracticaMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PracticaMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.05 MVC\\PracticaMVC\\PracticaMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PracticaMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:29:38.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "marcas.cs",
+              "DocumentMoniker": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.05 MVC\\PracticaMVC\\PracticaMVC\\Models\\marcas.cs",
+              "RelativeDocumentMoniker": "PracticaMVC\\Models\\marcas.cs",
+              "ToolTip": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.05 MVC\\PracticaMVC\\PracticaMVC\\Models\\marcas.cs",
+              "RelativeToolTip": "PracticaMVC\\Models\\marcas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:14:49.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.05 MVC\\PracticaMVC\\PracticaMVC\\Program.cs",
+              "RelativeDocumentMoniker": "PracticaMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.05 MVC\\PracticaMVC\\PracticaMVC\\Program.cs",
+              "RelativeToolTip": "PracticaMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:12:02.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "equiposDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.05 MVC\\PracticaMVC\\PracticaMVC\\Models\\equiposDbContext.cs",
+              "RelativeDocumentMoniker": "PracticaMVC\\Models\\equiposDbContext.cs",
+              "ToolTip": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.05 MVC\\PracticaMVC\\PracticaMVC\\Models\\equiposDbContext.cs",
+              "RelativeToolTip": "PracticaMVC\\Models\\equiposDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:09:22.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.05 MVC\\PracticaMVC\\PracticaMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "PracticaMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.05 MVC\\PracticaMVC\\PracticaMVC\\appsettings.json",
+              "RelativeToolTip": "PracticaMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T17:07:27.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MarcasController.cs",
+              "DocumentMoniker": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.05 MVC\\PracticaMVC\\PracticaMVC\\Controllers\\MarcasController.cs",
+              "RelativeDocumentMoniker": "PracticaMVC\\Controllers\\MarcasController.cs",
+              "ToolTip": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.05 MVC\\PracticaMVC\\PracticaMVC\\Controllers\\MarcasController.cs",
+              "RelativeToolTip": "PracticaMVC\\Controllers\\MarcasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:17:33.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

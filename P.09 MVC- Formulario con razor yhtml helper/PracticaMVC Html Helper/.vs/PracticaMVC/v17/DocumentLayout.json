@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.09 MVC- Formulario con razor yhtml helper\\PracticaMVC Html Helper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D583CE3-60DE-4A66-9C4C-970D546B3054}|PracticaMVC\\PracticaMVC.csproj|c:\\users\\cryde\\desktop\\guiasresultasasp\\p.09 mvc- formulario con razor yhtml helper\\practicamvc html helper\\practicamvc\\views\\marcas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D583CE3-60DE-4A66-9C4C-970D546B3054}|PracticaMVC\\PracticaMVC.csproj|solutionrelative:practicamvc\\views\\marcas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D583CE3-60DE-4A66-9C4C-970D546B3054}|PracticaMVC\\PracticaMVC.csproj|c:\\users\\cryde\\desktop\\guiasresultasasp\\p.09 mvc- formulario con razor yhtml helper\\practicamvc html helper\\practicamvc\\views\\marcas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D583CE3-60DE-4A66-9C4C-970D546B3054}|PracticaMVC\\PracticaMVC.csproj|solutionrelative:practicamvc\\views\\marcas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D583CE3-60DE-4A66-9C4C-970D546B3054}|PracticaMVC\\PracticaMVC.csproj|c:\\users\\cryde\\desktop\\guiasresultasasp\\p.09 mvc- formulario con razor yhtml helper\\practicamvc html helper\\practicamvc\\controllers\\marcascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D583CE3-60DE-4A66-9C4C-970D546B3054}|PracticaMVC\\PracticaMVC.csproj|solutionrelative:practicamvc\\controllers\\marcascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D583CE3-60DE-4A66-9C4C-970D546B3054}|PracticaMVC\\PracticaMVC.csproj|c:\\users\\cryde\\desktop\\guiasresultasasp\\p.09 mvc- formulario con razor yhtml helper\\practicamvc html helper\\practicamvc\\models\\marcas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D583CE3-60DE-4A66-9C4C-970D546B3054}|PracticaMVC\\PracticaMVC.csproj|solutionrelative:practicamvc\\models\\marcas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D583CE3-60DE-4A66-9C4C-970D546B3054}|PracticaMVC\\PracticaMVC.csproj|c:\\users\\cryde\\desktop\\guiasresultasasp\\p.09 mvc- formulario con razor yhtml helper\\practicamvc html helper\\practicamvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D583CE3-60DE-4A66-9C4C-970D546B3054}|PracticaMVC\\PracticaMVC.csproj|solutionrelative:practicamvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D583CE3-60DE-4A66-9C4C-970D546B3054}|PracticaMVC\\PracticaMVC.csproj|c:\\users\\cryde\\desktop\\guiasresultasasp\\p.09 mvc- formulario con razor yhtml helper\\practicamvc html helper\\practicamvc\\practicamvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D583CE3-60DE-4A66-9C4C-970D546B3054}|PracticaMVC\\PracticaMVC.csproj|solutionrelative:practicamvc\\practicamvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D583CE3-60DE-4A66-9C4C-970D546B3054}|PracticaMVC\\PracticaMVC.csproj|c:\\users\\cryde\\desktop\\guiasresultasasp\\p.09 mvc- formulario con razor yhtml helper\\practicamvc html helper\\practicamvc\\controllers\\equiposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D583CE3-60DE-4A66-9C4C-970D546B3054}|PracticaMVC\\PracticaMVC.csproj|solutionrelative:practicamvc\\controllers\\equiposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D583CE3-60DE-4A66-9C4C-970D546B3054}|PracticaMVC\\PracticaMVC.csproj|c:\\users\\cryde\\desktop\\guiasresultasasp\\p.09 mvc- formulario con razor yhtml helper\\practicamvc html helper\\practicamvc\\views\\equipos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D583CE3-60DE-4A66-9C4C-970D546B3054}|PracticaMVC\\PracticaMVC.csproj|solutionrelative:practicamvc\\views\\equipos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D583CE3-60DE-4A66-9C4C-970D546B3054}|PracticaMVC\\PracticaMVC.csproj|c:\\users\\cryde\\desktop\\guiasresultasasp\\p.09 mvc- formulario con razor yhtml helper\\practicamvc html helper\\practicamvc\\models\\equiposdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D583CE3-60DE-4A66-9C4C-970D546B3054}|PracticaMVC\\PracticaMVC.csproj|solutionrelative:practicamvc\\models\\equiposdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D583CE3-60DE-4A66-9C4C-970D546B3054}|PracticaMVC\\PracticaMVC.csproj|c:\\users\\cryde\\desktop\\guiasresultasasp\\p.09 mvc- formulario con razor yhtml helper\\practicamvc html helper\\practicamvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D583CE3-60DE-4A66-9C4C-970D546B3054}|PracticaMVC\\PracticaMVC.csproj|solutionrelative:practicamvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D583CE3-60DE-4A66-9C4C-970D546B3054}|PracticaMVC\\PracticaMVC.csproj|c:\\users\\cryde\\desktop\\guiasresultasasp\\p.09 mvc- formulario con razor yhtml helper\\practicamvc html helper\\practicamvc\\views\\marcas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D583CE3-60DE-4A66-9C4C-970D546B3054}|PracticaMVC\\PracticaMVC.csproj|solutionrelative:practicamvc\\views\\marcas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.09 MVC- Formulario con razor yhtml helper\\PracticaMVC Html Helper\\PracticaMVC\\Views\\marcas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PracticaMVC\\Views\\marcas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.09 MVC- Formulario con razor yhtml helper\\PracticaMVC Html Helper\\PracticaMVC\\Views\\marcas\\Delete.cshtml",
+              "RelativeToolTip": "PracticaMVC\\Views\\marcas\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T19:01:03.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.09 MVC- Formulario con razor yhtml helper\\PracticaMVC Html Helper\\PracticaMVC\\Views\\marcas\\Create.cshtml",
+              "RelativeDocumentMoniker": "PracticaMVC\\Views\\marcas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.09 MVC- Formulario con razor yhtml helper\\PracticaMVC Html Helper\\PracticaMVC\\Views\\marcas\\Create.cshtml",
+              "RelativeToolTip": "PracticaMVC\\Views\\marcas\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T19:01:00.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PracticaMVC",
+              "DocumentMoniker": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.09 MVC- Formulario con razor yhtml helper\\PracticaMVC Html Helper\\PracticaMVC\\PracticaMVC.csproj",
+              "RelativeDocumentMoniker": "PracticaMVC\\PracticaMVC.csproj",
+              "ToolTip": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.09 MVC- Formulario con razor yhtml helper\\PracticaMVC Html Helper\\PracticaMVC\\PracticaMVC.csproj",
+              "RelativeToolTip": "PracticaMVC\\PracticaMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T18:59:42.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.09 MVC- Formulario con razor yhtml helper\\PracticaMVC Html Helper\\PracticaMVC\\Views\\Equipos\\Index.cshtml",
+              "RelativeDocumentMoniker": "PracticaMVC\\Views\\Equipos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.09 MVC- Formulario con razor yhtml helper\\PracticaMVC Html Helper\\PracticaMVC\\Views\\Equipos\\Index.cshtml",
+              "RelativeToolTip": "PracticaMVC\\Views\\Equipos\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T17:18:30.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EquiposController.cs",
+              "DocumentMoniker": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.09 MVC- Formulario con razor yhtml helper\\PracticaMVC Html Helper\\PracticaMVC\\Controllers\\EquiposController.cs",
+              "RelativeDocumentMoniker": "PracticaMVC\\Controllers\\EquiposController.cs",
+              "ToolTip": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.09 MVC- Formulario con razor yhtml helper\\PracticaMVC Html Helper\\PracticaMVC\\Controllers\\EquiposController.cs",
+              "RelativeToolTip": "PracticaMVC\\Controllers\\EquiposController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwBAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:18:04.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.09 MVC- Formulario con razor yhtml helper\\PracticaMVC Html Helper\\PracticaMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "PracticaMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.09 MVC- Formulario con razor yhtml helper\\PracticaMVC Html Helper\\PracticaMVC\\appsettings.json",
+              "RelativeToolTip": "PracticaMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T14:07:44.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.09 MVC- Formulario con razor yhtml helper\\PracticaMVC Html Helper\\PracticaMVC\\Views\\marcas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PracticaMVC\\Views\\marcas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.09 MVC- Formulario con razor yhtml helper\\PracticaMVC Html Helper\\PracticaMVC\\Views\\marcas\\Edit.cshtml",
+              "RelativeToolTip": "PracticaMVC\\Views\\marcas\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T14:03:54.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "equiposDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.09 MVC- Formulario con razor yhtml helper\\PracticaMVC Html Helper\\PracticaMVC\\Models\\equiposDbContext.cs",
+              "RelativeDocumentMoniker": "PracticaMVC\\Models\\equiposDbContext.cs",
+              "ToolTip": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.09 MVC- Formulario con razor yhtml helper\\PracticaMVC Html Helper\\PracticaMVC\\Models\\equiposDbContext.cs",
+              "RelativeToolTip": "PracticaMVC\\Models\\equiposDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:03:37.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "marcasController.cs",
+              "DocumentMoniker": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.09 MVC- Formulario con razor yhtml helper\\PracticaMVC Html Helper\\PracticaMVC\\Controllers\\marcasController.cs",
+              "RelativeDocumentMoniker": "PracticaMVC\\Controllers\\marcasController.cs",
+              "ToolTip": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.09 MVC- Formulario con razor yhtml helper\\PracticaMVC Html Helper\\PracticaMVC\\Controllers\\marcasController.cs",
+              "RelativeToolTip": "PracticaMVC\\Controllers\\marcasController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAAI4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:02:59.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "marcas.cs",
+              "DocumentMoniker": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.09 MVC- Formulario con razor yhtml helper\\PracticaMVC Html Helper\\PracticaMVC\\Models\\marcas.cs",
+              "RelativeDocumentMoniker": "PracticaMVC\\Models\\marcas.cs",
+              "ToolTip": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.09 MVC- Formulario con razor yhtml helper\\PracticaMVC Html Helper\\PracticaMVC\\Models\\marcas.cs",
+              "RelativeToolTip": "PracticaMVC\\Models\\marcas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:01:36.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.09 MVC- Formulario con razor yhtml helper\\PracticaMVC Html Helper\\PracticaMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PracticaMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\cryde\\Desktop\\GuiasResultasASP\\P.09 MVC- Formulario con razor yhtml helper\\PracticaMVC Html Helper\\PracticaMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PracticaMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:06:18.35Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
